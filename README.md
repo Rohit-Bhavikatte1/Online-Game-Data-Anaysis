@@ -2,7 +2,7 @@
 
 # Data Analysis with SQL Server
 ### Introduction :
-This report provides an analysis of the loyalty points system for an ABC online gaming platform.
+This project provides an analysis of the loyalty points system for an ABC online gaming platform.
 The analysis is based on three datasets: user data, deposit data, and withdrawal data.
 Key objectives include calculating loyalty points, identifying top players, and providing recommendations for improving player engagement.
 
