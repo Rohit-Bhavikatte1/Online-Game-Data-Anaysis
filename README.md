@@ -1,8 +1,10 @@
 # Online-Game-Data-Anaysis
 
 # Data Analysis with SQL Server
-### Description
-This project leverages SQL Server for data analysis, showcasing various techniques in querying, data transformation, and optimization. It provides insights into structured data analysis while utilizing SSMS for efficient database management and visualization.
+### Introduction :
+This report provides an analysis of the loyalty points system for an ABC online gaming platform.
+The analysis is based on three datasets: user data, deposit data, and withdrawal data.
+Key objectives include calculating loyalty points, identifying top players, and providing recommendations for improving player engagement.
 
 ## Features
 - 📊 Advanced SQL queries for data analysis and reporting.
@@ -22,10 +24,7 @@ Transformations to clean and normalize the data for analysis.
 Queries for descriptive statistics, grouping, and aggregations.
 Examples of JOINs and subqueries to combine and analyze data from multiple tables.
 
-### Introduction :
-This report provides an analysis of the loyalty points system for an ABC online gaming platform.
-The analysis is based on three datasets: user data, deposit data, and withdrawal data.
-Key objectives include calculating loyalty points, identifying top players, and providing recommendations for improving player engagement.
+
 
 ### Dataset Overview :
 - The dataset consists of three tables: user_data, deposit_data, and withdrawal_data.
