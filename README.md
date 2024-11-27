@@ -31,7 +31,7 @@ Key objectives include calculating loyalty points, identifying top players, and 
 - The dataset consists of three tables: user_data, deposit_data, and withdrawal_data.
 - The total records in each dataset are calculated, and NULL value checks confirm data integrity.
 - You can find the data [here](https://github.com/Rohit-Bhavikatte1/Online-Game-Data-Anaysis)
-
+- SQL solution file [here](https://github.com/Rohit-Bhavikatte1/Online-Game-Data-Anaysis/blob/main/vandita%20online%20game%20data%20analysis.sql)
 
 
 * Contributing
